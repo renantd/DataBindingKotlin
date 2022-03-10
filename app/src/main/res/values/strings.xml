@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DataBinding</string>
+    <string name="valor">Digito um valor</string>
+    <string name="enviar">ENVIAR</string>
+</resources>
